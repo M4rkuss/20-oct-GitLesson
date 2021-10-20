@@ -1,2 +1,2 @@
-# 20-oct-GitLesson
+# 20-oct-GitLesson 🧑🏻‍💻
 ITStep lessons
